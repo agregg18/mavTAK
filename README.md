@@ -1,2 +1,2 @@
 # mavTAK
-Translation of MavLink to CoT for CivTAK
+Translation of MAVLink to CoT for CivTAK
