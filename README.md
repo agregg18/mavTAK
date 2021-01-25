@@ -11,8 +11,8 @@ Not tested with Python 2. Assumes Python 3.
 ## Dependencies
 
 - pymavlink 
-'code' pip install pymavlink
+>pip install pymavlink
 
 # Running
 
-Run 'code' python mavTAK.py -h
+>python mavTAK.py -h
